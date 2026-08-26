@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Hi 👋, I'm Sadam Hussein Mohamed</h1>
 
 <h3 align="center">Full-Stack Developer | Building Modern Web Applications</h3>
@@ -92,4 +91,4 @@ A full-stack attendance and academic management system designed for schools and 
 <p align="center">
   ⭐ Always learning, building, and improving.
 </p>
-```
+
