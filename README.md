@@ -1,167 +1,96 @@
-<h1 align="center">Hi 👋, I'm Sadam Hussein Mohamed</h1>
 
-<h3 align="center">Full-Stack Developer | Building Modern, Scalable Web Applications</h3>
+<h1 align="center">👋 Hi, I'm Sadam Hussein Mohamed</h1>
 
-<p align="center">
-  Passionate about building responsive, secure, scalable, and user-friendly full-stack applications.
-</p>
+<h3 align="center">Full-Stack Developer | Building Modern Web Applications</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=eng-sadam-Hussein&label=Profile%20Views&style=flat" />
+  Passionate about building responsive, secure, scalable and user-friendly applications.
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 💻 Tech Stack
 
-* 💻 Full-Stack Web Developer
-* 🎨 Building modern and responsive frontend applications
-* ⚙️ Developing secure and scalable backend systems
-* 🗄️ Working with relational and NoSQL databases
-* 🔗 Building and integrating REST APIs
-* 🚀 Interested in real-world web applications and business systems
-* 🧠 Continuously improving my software development skills
-* 🌍 Open to remote opportunities, collaborations, and professional projects
+### 🎨 Frontend Development
 
----
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-# 🛠️ Tech Stack
+### ⚙️ Backend Development
 
-## 💻 Frontend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs" />
-</p>
+### 🗄️ Database
 
-**HTML5 • CSS3 • Tailwind CSS • JavaScript • React.js • Next.js**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
+### 🧰 Development Tools
 
-## ⚙️ Backend Development
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring" />
-</p>
-
-**Node.js • Express.js • Java • Spring Boot**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 🗄️ Database
+## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eng-sadam-Hussein&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 
-**MongoDB • SQL / MySQL • PostgreSQL**
+![GitHub Streak](https://streak-stats.demolab.com?user=eng-sadam-Hussein&theme=dark&hide_border=true)
 
----
-
-## 🧰 Development Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
-**Git • GitHub • Visual Studio Code**
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eng-sadam-Hussein&layout=compact&theme=dark&hide_border=true)
 
 ---
 
-## 💡 Development Skills
-
-* Responsive Web Design
-* Frontend Development
-* Backend Development
-* Full-Stack Web Development
-* REST API Development
-* API Integration
-* Authentication & Authorization
-* Database Design
-* CRUD Applications
-* Git Version Control
-* Debugging & Problem Solving
-* Mobile-Friendly UI Development
-* Clean & Maintainable Code
-
----
-
-# 🚀 Featured Projects
-
-## 🌐 Tusmo Advertising
-
-A modern and responsive advertising agency website designed to showcase creative services, branding, digital marketing, company information, and professional business solutions.
-
----
-
-## 💼 Tusmo Consulting
-
-A professional consulting and digital solutions website designed to showcase business services, expertise, consulting solutions, company information, and client-focused support.
-
----
-
-## 🍕 Golden Pizza House
-
-A modern and responsive restaurant website designed to showcase menu items, restaurant services, offers, food products, and brand information with a clean and mobile-friendly user experience.
-
----
-
-## 🎓 XaaDir Management System
-
-A full-stack attendance and academic management system designed for schools and educational institutions.
-
-### Key Features
-
-* Secure authentication
-* Role-based access control
-* Student management
-* Teacher management
-* Academic management
-* Attendance tracking
-* Reports and analytics
-* Responsive dashboard
-* Database management
-* REST API integration
-
----
-
-# 📊 GitHub Activity
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eng-sadam-Hussein&show_icons=true&hide_border=true&rank_icon=github" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eng-sadam-Hussein&layout=compact&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=eng-sadam-Hussein&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" />
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## 💡 Random Dev Quote
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=eng-sadam-Hussein&hide_border=true" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
 
 ---
 
-# 📫 Contact Me
+## 🚀 Top Contributed Repositories
 
-<p align="left">
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eng-sadam-Hussein&theme=github_dark)
 
-<a href="https://wa.me/252619818501">
-  <img src="https://img.shields.io/badge/WhatsApp-Contact%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
+---
 
-<a href="https://github.com/eng-sadam-Hussein">
-  <img src="https://img.shields.io/badge/GitHub-eng--sadam--Hussein-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+## 🌟 Featured Projects
 
-</p>
+- 🌐 **Tusmo Advertising** – Advertising and digital marketing website.
+- 💼 **Tusmo Consulting** – Professional consulting platform.
+- 🍕 **Golden Pizza House** – Restaurant website.
+- 🎓 **XaaDir Management System** – Academic and attendance management system.
+- 💊 **PharmaStock** – Inventory management application.
+
+---
+
+## 📈 Contribution Activity
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=eng-sadam-Hussein&bg_color=000000&color=ffffff&line=00c853&point=ffffff&area=true&hide_border=true)
 
 ---
 
 <p align="center">
-  <b>💻 Code • 🚀 Build • 📚 Learn • 🔁 Improve</b>
+  💻 Code • 🚀 Build • 📚 Learn • 🔁 Improve
 </p>
 
 <p align="center">
