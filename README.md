@@ -1,11 +1,3 @@
-
-
-<p align="center">
-  Passionate about building responsive, secure, scalable and user-friendly applications.
-</p>
-
----
-
 ## 💻 Tech Stack
 
 ### 🎨 Frontend Development
