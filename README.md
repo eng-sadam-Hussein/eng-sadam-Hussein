@@ -4,11 +4,11 @@
 <h3 align="center">Full-Stack Developer | Building Modern, Scalable Web Applications</h3>
 
 <p align="center">
-Passionate about building responsive, secure, scalable and user-friendly full-stack applications.
+  Passionate about building responsive, secure, scalable and user-friendly full-stack applications.
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=eng-sadam-Hussein&label=Profile%20Views&color=blue&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=eng-sadam-Hussein&label=Profile%20Views&color=blue&style=flat" />
 </p>
 
 ---
@@ -60,10 +60,7 @@ Passionate about building responsive, secure, scalable and user-friendly full-st
 ![Supabase](https://img.shields.io/badge/SUPABASE-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Appwrite](https://img.shields.io/badge/APPWRITE-FD366E?style=for-the-badge&logo=appwrite&logoColor=white)
 ![Prisma](https://img.shields.io/badge/PRISMA-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eng-sadam-Hussein&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eng-sadam-Hussein&layout=compact&theme=dark&langs_count=10)
-![Trophies](https://github-profile-trophy.vercel.app/?username=eng-sadam-Hussein&theme=darkhub&no-frame=true)
-![Activity](https://github-readme-activity-graph.vercel.app/graph?username=eng-sadam-Hussein&theme=github-dark)
+
 ### ☁️ Deployment & Package Management
 
 ![Heroku](https://img.shields.io/badge/HEROKU-430098?style=for-the-badge&logo=heroku&logoColor=white)
@@ -88,17 +85,17 @@ Passionate about building responsive, secure, scalable and user-friendly full-st
 ## 📊 GitHub Stats:
 
 <p align="center">
-<img width="700" src="https://github-readme-stats.vercel.app/api?username=eng-sadam-Hussein&custom_title=Sadam%20Hussein's%20GitHub%20Stats&show_icons=true&include_all_commits=true&count_private=true&show=stars,commits,prs,issues,contribs&theme=dark&bg_color=151515&title_color=FFFFFF&text_color=AAAAAA&icon_color=FFFFFF&border_color=DDDDDD" />
+  <img width="700" src="https://github-readme-stats.vercel.app/api?username=eng-sadam-Hussein&show_icons=true&include_all_commits=true&count_private=true&theme=dark&bg_color=151515&title_color=FFFFFF&text_color=AAAAAA&icon_color=FFFFFF&border_color=DDDDDD" />
 </p>
 
 <p align="center">
-<img width="700" src="https://streak-stats.demolab.com?user=eng-sadam-Hussein&theme=dark&background=151515&border=DDDDDD&stroke=DDDDDD&ring=FF9800&fire=FF9800&currStreakLabel=FF9800&currStreakNum=FFFFFF&sideLabels=FFFFFF&sideNums=FFFFFF&dates=999999" />
+  <img width="700" src="https://streak-stats.demolab.com?user=eng-sadam-Hussein&theme=dark&background=151515&border=DDDDDD&stroke=DDDDDD&ring=FF9800&fire=FF9800&currStreakLabel=FF9800&currStreakNum=FFFFFF&sideLabels=FFFFFF&sideNums=FFFFFF&dates=999999" />
 </p>
 
 ### Most Used Languages:
 
 <p align="left">
-<img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eng-sadam-Hussein&layout=compact&langs_count=10&theme=dark&bg_color=151515&title_color=FFFFFF&text_color=AAAAAA&border_color=DDDDDD&card_width=450" />
+  <img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eng-sadam-Hussein&layout=compact&langs_count=10&theme=dark&bg_color=151515&title_color=FFFFFF&text_color=AAAAAA&border_color=DDDDDD&card_width=450" />
 </p>
 
 ---
@@ -106,7 +103,7 @@ Passionate about building responsive, secure, scalable and user-friendly full-st
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=eng-sadam-Hussein&theme=darkhub&no-frame=true&margin-w=4&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=eng-sadam-Hussein&theme=darkhub&no-frame=true&margin-w=4&row=1&column=7" />
 </p>
 
 ---
@@ -114,7 +111,7 @@ Passionate about building responsive, secure, scalable and user-friendly full-st
 ## ✍️ Random Dev Quote
 
 <p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
 
 ---
@@ -122,34 +119,15 @@ Passionate about building responsive, secure, scalable and user-friendly full-st
 ## 🏆 Top Contributed Repo
 
 <p align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=eng-sadam-Hussein&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=eng-sadam-Hussein&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 </p>
-
----
-
-## 🚀 Featured Projects
-
-### 🌐 Tusmo Advertising
-A modern advertising agency website showcasing creative services, branding and digital marketing solutions.
-
-### 💼 Tusmo Consulting
-A professional consulting and digital solutions platform.
-
-### 🍕 Golden Pizza House
-A modern restaurant website showcasing menu items, services and offers.
-
-### 🎓 XaaDir Management System
-A full-stack academic and attendance management system for educational institutions.
-
-### 💊 PharmaStock
-A modern inventory management application.
 
 ---
 
 ## 📈 Contribution Activity
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=eng-sadam-Hussein&bg_color=0d1117&color=ffffff&line=00c853&point=ffffff&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eng-sadam-Hussein&bg_color=0d1117&color=ffffff&line=00c853&point=ffffff&area=true&hide_border=true" width="100%" />
 </p>
 
 ---
@@ -157,17 +135,17 @@ A modern inventory management application.
 ## 📫 Connect With Me
 
 <p align="center">
-<a href="https://github.com/eng-sadam-Hussein">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+  <a href="https://github.com/eng-sadam-Hussein">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-💻 Code • 🚀 Build • 📚 Learn • 🔁 Improve
+  💻 Code • 🚀 Build • 📚 Learn • 🔁 Improve
 </p>
 
 <p align="center">
-⭐ Always learning, building, and improving.
+  ⭐ Always learning, building, and improving.
 </p>
