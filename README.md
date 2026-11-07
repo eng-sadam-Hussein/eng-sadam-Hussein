@@ -92,10 +92,11 @@
   <img width="700" src="https://streak-stats.demolab.com?user=eng-sadam-Hussein&theme=dark&background=151515&border=DDDDDD&stroke=DDDDDD&ring=FF9800&fire=FF9800&currStreakLabel=FF9800&currStreakNum=FFFFFF&sideLabels=FFFFFF&sideNums=FFFFFF&dates=999999" />
 </p>
 
-### Most Used Languages:
+
+### Most Used Languages
 
 <p align="left">
-  <img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eng-sadam-Hussein&layout=compact&langs_count=10&theme=dark&bg_color=151515&title_color=FFFFFF&text_color=AAAAAA&border_color=DDDDDD&card_width=450" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eng-sadam-Hussein&layout=compact&langs_count=10&theme=dark&bg_color=151515&title_color=FFFFFF&text_color=AAAAAA&border_color=DDDDDD" width="450" />
 </p>
 
 ---
@@ -138,14 +139,4 @@
   <a href="https://github.com/eng-sadam-Hussein">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>
-
----
-
-<p align="center">
-  💻 Code • 🚀 Build • 📚 Learn • 🔁 Improve
-</p>
-
-<p align="center">
-  ⭐ Always learning, building, and improving.
 </p>
