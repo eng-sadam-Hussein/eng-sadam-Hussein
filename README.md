@@ -60,7 +60,10 @@ Passionate about building responsive, secure, scalable and user-friendly full-st
 ![Supabase](https://img.shields.io/badge/SUPABASE-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Appwrite](https://img.shields.io/badge/APPWRITE-FD366E?style=for-the-badge&logo=appwrite&logoColor=white)
 ![Prisma](https://img.shields.io/badge/PRISMA-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eng-sadam-Hussein&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eng-sadam-Hussein&layout=compact&theme=dark&langs_count=10)
+![Trophies](https://github-profile-trophy.vercel.app/?username=eng-sadam-Hussein&theme=darkhub&no-frame=true)
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=eng-sadam-Hussein&theme=github-dark)
 ### ☁️ Deployment & Package Management
 
 ![Heroku](https://img.shields.io/badge/HEROKU-430098?style=for-the-badge&logo=heroku&logoColor=white)
