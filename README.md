@@ -1,7 +1,4 @@
 
-<h1 align="center">👋 Hi, I'm Sadam Hussein Mohamed</h1>
-
-<h3 align="center">Full-Stack Developer | Building Modern Web Applications</h3>
 
 <p align="center">
   Passionate about building responsive, secure, scalable and user-friendly applications.
